@@ -6,7 +6,7 @@ function SecretPage() {
   return (
     <div>
       <h3>✅ Welcome!</h3>
-      <p>This is a protected page. Only authenticated users can see this.</p>
+      <p>This is a protected page. Authenticated users can see this.</p>
     </div>
   );
 }
